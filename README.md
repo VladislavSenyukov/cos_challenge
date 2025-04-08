@@ -1,3 +1,3 @@
-# cos_challenge
+# To generate the code before running the app, please execute:
 
-A new Flutter project.
+dart run build_runner build --delete-conflicting-outputs
